@@ -1,28 +1,39 @@
-def gunluk_listele():
-    print("yeni günlük girişi çalıştı")
-def filtrele():
-    print("günlük hedef belirlend")
-def kayıt_listele():
+#karısımları nasıl yapıcam???
+def kaynama_noktası():
+    print("/n *Suyun Kaynama Noktasını Bulma*")
+    print("Su 100 derecede kaynar...")
+    rakim=int(input("Bulunduğun rakımı gir: "))
+    kaynama=100-(rakim/300)
+    print("Tahmini Kaynama Noktası: ", kaynama)
+
+def hız_olcumu():
+    print("/n *Ses Hızı Deneyi*")
+    mesafe=float(input("Şimşeği gördükten kaç saniye sonra gördün?: "))
+    hiz=343
+    uzaklik =hiz*mesafe
+    print("Şimşek yaklaşık olarak", uzaklik,"metre uzaktaydı.")
+
+def karısımlar():
     print("gçrev tamamlandı")
 
 def kesifmenu():
     print("╔════════════════════════════╗")
-    print("║     Keşif Kayıtları        ║")
+    print("║     Keşifler               ║")
     print("║                            ║")
-    print("║  1-Tüm günlükleri listele  ║")
-    print("║  2-Filtrele                ║")
-    print("║  3-Kayıtları Listele       ║")
+    print("║  1-Suyun Kaynama Noktası   ║")
+    print("║  2-Ses Hızı Ölçümü         ║")
+    print("║  3-Renk Karışımları        ║")
     print("║  4-Anamenüye dön           ║")
     print("╚════════════════════════════╝")
     secim=input("Seçiminiz: ")
     if secim=="1":
-        gunluk_listele()
+        kaynama_noktası()
     
     elif secim=="2":
-        filtrele()
+        hız_olcumu()
 
     elif secim=="3":
-        kayıt_listele() 
+        karısımlar() 
 
     elif secim=="4":
         print("Anamenüye dönülüyor...")  

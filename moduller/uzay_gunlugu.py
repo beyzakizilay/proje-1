@@ -1,9 +1,19 @@
 def gunluk_girisi():
-    print("yeni günlük girişi çalıştı")
+    notlar=input("Bugün neler öğrendin?: ")
+    print("Günlük Kaydın Tamamlandı:", notlar)
+
 def gunluk_hedef():
-    print("günlük hedef belirlend")
+    hedef=input("Bugünki Hedeflerin Neler?: ")
+    print("Bugünki Hedeflerini Listeledim: ", hedef)
+
 def gorev_tamamlandı():
-    print("gçrev tamamlandı")
+    gorev=input("Görevleriniz yapıldı mı?:")
+    if gorev==("evet"):
+        print("Görevleriniz Tamamlandı")
+    elif gorev==("hayır"):
+        print("Görevleriniz tamamlanmadı...")
+    else:
+        print("geçerli bir cevap giriniz-evet/hayır")    
 
 def uzaymenu():
     print("╔════════════════════════════╗")

@@ -26,3 +26,4 @@ def holografikmenu():
 
     elif secim=="4":
         print("Anamenüye dönülüyor...")  
+        #range falan nasıl kullanıcam??
