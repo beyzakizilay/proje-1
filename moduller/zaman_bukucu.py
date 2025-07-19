@@ -1,28 +1,28 @@
-def tema_secimi():
+def bugunden_gecmise():
     print("yeni günlük girişi çalıştı")
-def dil_ayarı():
+def gelecege_zipla():
     print("günlük hedef belirlend")
-def ses_efekti():
+def format_donustur():
     print("gçrev tamamlandı")
 
-def sistemmenu():
+def zamanmenu():
     print("╔════════════════════════════╗")
-    print("║     Sistem Ayarları        ║")
+    print("║        Zaman Bükücü        ║")
     print("║                            ║")
-    print("║  1-Tema Seçimi             ║")
-    print("║  2-Dil Ayarı               ║")
-    print("║  3-Ses Efektleri           ║")
+    print("║  1-Bugünden Geçmişe        ║")
+    print("║  2-Geleceğe zıpla          ║")
+    print("║  3-Tarih format Dönüştür   ║")
     print("║  4-Anamenüye dön           ║")
     print("╚════════════════════════════╝")
     secim=input("Seçiminiz: ")
     if secim=="1":
-        tema_secimi()
+        bugunden_gecmise()
     
     elif secim=="2":
-        dil_ayarı()
+        gelecege_zipla()
 
     elif secim=="3":
-        ses_efekti() 
+        format_donustur() 
 
     elif secim=="4":
         print("Anamenüye dönülüyor...")  

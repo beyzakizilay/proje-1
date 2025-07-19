@@ -40,4 +40,12 @@ def anamenu():
     elif secim=="6":
         import moduller.kesif_kayitlari
         moduller.kesif_kayitlari.kesifmenu()
+
+    elif secim=="7":
+        import moduller.sistem_ayarlari
+        moduller.sistem_ayarlari.sistemmenu()   
+
+    elif secim=="8":
+        import moduller.zaman_bukucu
+        moduller.zaman_bukucu.zamanmenu()    
 anamenu() #değer döndüren fonksiyon
