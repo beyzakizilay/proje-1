@@ -4,17 +4,40 @@ def anamenu():
     print("║       ANAMENU              ║")
     print("║                            ║")
     print("║  1-Roket Fırlatma İstasyonu║")
-    print("║  2-YZ Labaratuarı          ║")
+    print("║  2-YZ Laboratuarı          ║")
     print("║  3-Bilimsel Hesap Merkezi  ║")
     print("║  4-Holografik Çizim Alanı  ║")
     print("║  5-Uzay Günlüğü            ║")
     print("║  6-Keşif Kayıtları         ║")
     print("║  7-Sistem Ayarları         ║")
-    print("║  8-Görev Sonlandır         ║")
+    print("║  8-Zaman Bükücü            ║")
+    print("║  9-Galaksi Haritası        ║")
+    print("║  10-Görev Sonlandır        ║")
     print("║     Tercihiniz Nedir?      ║")
     print("╚════════════════════════════╝")
 
-    secim=input()
+    secim=input("Seçiminiz nedir: ")
     if secim=="1":
-        print("Roket Fırlatma İstasyonunu seçtiniz")
-anamenu()     
+       import moduller.roket_firlatma_istasyonu
+       moduller.roket_firlatma_istasyonu.roketmenu()
+    
+    elif secim=="2":
+        import moduller.yz_laboratuarı
+        moduller.yz_laboratuarı.yzmenu()
+    
+    elif secim=="3":
+        import moduller.bilimsel_hesap_merkezi
+        moduller.bilimsel_hesap_merkezi.bilimselmenu()
+
+    elif secim=="4":
+        import moduller.holografik_cizim_alani
+        moduller.holografik_cizim_alani.holografikmenu()
+
+    elif secim=="5":
+        import moduller.uzay_gunlugu
+        moduller.uzay_gunlugu.uzaymenu()
+        
+    elif secim=="6":
+        import moduller.kesif_kayitlari
+        moduller.kesif_kayitlari.kesifmenu()
+anamenu() #değer döndüren fonksiyon
