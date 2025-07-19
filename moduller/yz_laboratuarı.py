@@ -20,5 +20,5 @@ def yzmenu():
 
     elif secim=="3":
         print("Anamenüye dönülüyor...")    
-    
+    #random sayı nasıl seçilecek???
         
