@@ -1,9 +1,24 @@
 def yakit_hesapla():
-    print("yakıt hesaplama çalıştı")
+    print("\n *Yakıt Hesaplama Sistemi*")
+    agırlık=int(input("Roketin Ağırlığı: " ))
+    mesafe=int(input("Gidilecek Mesafe: "))
+    yakit=agırlık*mesafe
+    print("Gerekli Yakıt: ", yakit)
+
 def agirlik_azaltma():
-    print("ağırlık azaltma çalıştı")
+    print("\n *Ağırlık Azaltma*")
+    toplam=int(input("Toplam Ağırlık: "))
+    cikarma=int(input("Kaç Ton Çıkarılacak: "))
+    agırlık=toplam-cikarma
+    print("Yeni Ağırlık: ", agırlık)
+    
+    
 def guc_katsayisi():
-    print("güç katsaısı çalıştı")    
+    print("\n *Güç Katsayısı*")
+    yakit=int(input("Yakıt Gücü: "))
+    motor=int(input("Motor Gücü: "))
+    toplam=yakit+motor
+    print("Toplam Güç: ", toplam)
 
 def roketmenu():
     print("╔════════════════════════════╗")
@@ -25,6 +40,7 @@ def roketmenu():
         guc_katsayisi()   
 
     elif secim=="4":
-        print("Anamenüye dönülüyor...")    
+        print("Anamenüye dönülüyor...")  
+          
     
         

@@ -47,5 +47,16 @@ def anamenu():
 
     elif secim=="8":
         import moduller.zaman_bukucu
-        moduller.zaman_bukucu.zamanmenu()    
+        moduller.zaman_bukucu.zamanmenu()   
+
+    elif secim=="9":
+        import moduller.galaksi_haritasi
+        moduller.galaksi_haritasi.galaksimenu()  
+
+    elif secim=="10":
+        print("Çıkış Yaptınız...")
+        exit  
+
+    elif secim>10:
+        print("Hatalı Tuşlama Yaptınız, 1-10 arasında bir seçim yapınız...")         
 anamenu() #değer döndüren fonksiyon
