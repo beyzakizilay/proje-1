@@ -1,0 +1,20 @@
+def anamenu():
+    print("Anamenu")
+    print("╔════════════════════════════╗")
+    print("║       ANAMENU              ║")
+    print("║                            ║")
+    print("║  1-Roket Fırlatma İstasyonu║")
+    print("║  2-YZ Labaratuarı          ║")
+    print("║  3-Bilimsel Hesap Merkezi  ║")
+    print("║  4-Holografik Çizim Alanı  ║")
+    print("║  5-Uzay Günlüğü            ║")
+    print("║  6-Keşif Kayıtları         ║")
+    print("║  7-Sistem Ayarları         ║")
+    print("║  8-Görev Sonlandır         ║")
+    print("║     Tercihiniz Nedir?      ║")
+    print("╚════════════════════════════╝")
+
+    secim=input()
+    if secim=="1":
+        print("Roket Fırlatma İstasyonunu seçtiniz")
+anamenu()     
