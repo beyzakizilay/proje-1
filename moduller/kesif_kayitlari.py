@@ -14,7 +14,7 @@ def hız_olcumu():
     print("Şimşek yaklaşık olarak", uzaklik,"metre uzaktaydı.")
 
 def karısımlar():
-    print("gçrev tamamlandı")
+    print
 
 def kesifmenu():
     print("╔════════════════════════════╗")
