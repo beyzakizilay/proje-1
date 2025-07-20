@@ -1,7 +1,7 @@
 def anamenu():
     print("Anamenu")
     print("╔════════════════════════════╗")
-    print("║       ANAMENU              ║")
+    print("║          ANAMENU           ║")
     print("║                            ║")
     print("║  1-Roket Fırlatma İstasyonu║")
     print("║  2-YZ Laboratuarı          ║")
