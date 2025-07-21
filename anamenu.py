@@ -9,7 +9,7 @@ def anamenu():
     print("║  4-Holografik Çizim Alanı  ║")
     print("║  5-Uzay Günlüğü            ║")
     print("║  6-Keşif Kayıtları         ║")
-    print("║  7-Sistem Ayarları         ║")
+    print("║  7-Nano Teknoloji Odası    ║")
     print("║  8-Zaman Bükücü            ║")
     print("║  9-Galaksi Haritası        ║")
     print("║  10-Görev Sonlandır        ║")
@@ -42,8 +42,8 @@ def anamenu():
         moduller.kesif_kayitlari.kesifmenu()
 
     elif secim=="7":
-        import moduller.sistem_ayarlari
-        moduller.sistem_ayarlari.sistemmenu()   
+        import moduller.nano_teknoloji
+        moduller.nano_teknoloji.nanomenu()
 
     elif secim=="8":
         import moduller.zaman_bukucu
