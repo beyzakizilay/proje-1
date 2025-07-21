@@ -1,22 +1,31 @@
-def nova_sistemi():
-    print("yeni günlük girişi çalıştı")
+galaksiler=["Andromeda", "Samanyolu", "Messier 87", "NGC 1300"]
+def galaksi_sistemi():
+    print("Keşfedilen Galaksiler: ")
+    for galaksi in galaksiler:
+        print("-", galaksi)
 def karadelik():
-    print("günlük hedef belirlend")
+    print("Karadelikler ışığı bile yutar. Peki sen karadeliğe ne fırlatmak istersin?")
+    nesne=input("Karadeliğe ne fırlatmak istersin?: ")
+    print(f"{nesne} karadeliğe fırlatıldı. Geri dönüşü yok!!!" )
+
 def yildiz_gecidi():
-    print("gçrev tamamlandı")
+    print("Yıldız Geçidi")
+    gezegen=input("Hangi gezegene ışınlanmak istersin?: ")
+    saniye=input("Kaç saniyede geçiş yapmak istersin: ")
+    print(f"{gezegen} gezegenine {saniye} saniyede geçiş başlatıldı!!!")
 
 def galaksimenu():
     print("╔════════════════════════════╗")
     print("║        Galaksi Haritası    ║")
     print("║                            ║")
-    print("║  1-Nova Sistemi            ║")
+    print("║  1-Galakasi Sistemi        ║")
     print("║  2-Karadelik Noktası       ║")
     print("║  3-Yıldız Geçidi           ║")
     print("║  4-Anamenüye dön           ║")
     print("╚════════════════════════════╝")
     secim=input("Seçiminiz: ")
     if secim=="1":
-        nova_sistemi()
+        galaksi_sistemi()
     
     elif secim=="2":
         karadelik()

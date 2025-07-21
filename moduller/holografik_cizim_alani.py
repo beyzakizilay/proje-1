@@ -1,9 +1,20 @@
 def yildiz_piramit():
-    print("yıldız piramit çalıştı")
+    print("Yıldız Piramit: ")
+    for a in range(1,100):
+        print("*" * a)
+
 def dalgali_galaksi():
-    print("dalgalı galaksi çalıştı")
+    print("Dalgalı Galaksi:")
+    for a in  range(100):
+        print(" " * a + "*")
+
 def dinamik_zigzag():
-    print("dinamik zigzag çalıştı")    
+    print("Dinamik Zigzag: ")
+    for a in range(100):
+        if a % 2==0:
+            print("\\")
+        else:
+            print("/")  
 
 def holografikmenu():
     print("╔════════════════════════════╗")
@@ -26,4 +37,3 @@ def holografikmenu():
 
     elif secim=="4":
         print("Anamenüye dönülüyor...")  
-        #range falan nasıl kullanıcam??
