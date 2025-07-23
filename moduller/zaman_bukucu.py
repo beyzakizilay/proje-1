@@ -1,9 +1,18 @@
 def bugunden_gecmise():
-    print("yeni günlük girişi çalıştı")
+    print("Geçmişe yolculuk başlıyor...")
+    gun=input("Kaç gün geçmişe gitmek istersin?: ")
+    print(f"{gun} gün öncesine ışınlandın!")
+
 def gelecege_zipla():
-    print("günlük hedef belirlend")
+    print("Geleceğe zıplıyoruz...")
+    gun=input("Kaç gün ileri gitmek istersin?: ")
+    print(f"{gun} gün sonrasına ışınlandın!")
+    
 def format_donustur():
-    print("gçrev tamamlandı")
+    print("Tar,h formatı dönüştürülüyor...")
+    tarih=input("Tarihi şu şekilde gir (gg.aa.yyyy): ")
+    yeni_format=tarih.replace(".", "-")
+    print(f"Yeni tarih formatı:{yeni_format}")
 
 def zamanmenu():
     print("╔════════════════════════════╗")
