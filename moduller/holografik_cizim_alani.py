@@ -1,14 +1,17 @@
 def yildiz_piramit():
+    print("\n *Yıldız Piramit Sistemi*")
     print("Yıldız Piramit: ")
     for a in range(1,100):
         print("*" * a)
 
 def dalgali_galaksi():
+    print("\n *Dalgalı Galaksi Sistemi*")
     print("Dalgalı Galaksi:")
     for a in  range(100):
         print(" " * a + "*")
 
 def dinamik_zigzag():
+    print("\n *Dinamik Zigzag Sistemi*")
     print("Dinamik Zigzag: ")
     for a in range(100):
         if a % 2==0:

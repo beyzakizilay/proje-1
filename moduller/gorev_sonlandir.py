@@ -2,16 +2,19 @@ tema="Koyu"
 dil="Türkçe"
 ses="Açık"
 def tema_degistir():
+    print("\n *Tema Değiştirme*")
     global tema
     tema=input("Tema (Koyu/Açık): ")
     print("Tema ayarlandı:", tema)
 
 def dil_degistir():
+    print("\n *Dil Değiştirme*")
     global dil
     dil=input("Dil(TR/EN): ")
     print("Dil ayarlandı:", dil)
 
 def ses_degistir():
+    print("\n *Ses Değiştirme*")
     global ses
     ses=input("Ses (Açık/Kapalı: )")
     print("Ses ayarlandı: ", ses)

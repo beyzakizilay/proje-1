@@ -1,14 +1,14 @@
 import random
 
 def sayi_tahmin():
-    print("SAYI TAHMİN DENEYİ")
+    print("Sayı Tahmin Deneyi")
     gizli_sayi= random.randint(1,10)
     hak=3
 
     while hak>0:
         tahmin=int(input("1 ile 10 arasında bir sayı tahmin et: "))
         if tahmin==gizli_sayi:
-            print("Doğru tahmib, tebrikler!!!")
+            print("Doğru tahmin, tebrikler!!!")
             break
         else:
             hak-=1
@@ -21,7 +21,7 @@ def sayi_tahmin():
                         
 
 def renk_tahmin():
-    print("RENK TAHMİN DENEYİ")
+    print("Renk Tahmin Deneyi")
     renkler=["kırmızı", "mavi", "yeşil", "sarı", "mor"]
     secilen_renk=random.choice(renkler)
     hak=3
@@ -34,10 +34,10 @@ def renk_tahmin():
             hak-=1
             print("Yanlış tahmin")
             if hak>0:
-                print("Kalan hakkınız: {hak}")
+                print(f"Kalan hakkınız: {hak}")
             else:
                 print(f"Hakkınız bitti. Doğru renk: {secilen_renk}")
-                
+
 def yzmenu():
     print("╔════════════════════════════╗")
     print("║   YZ LABORATUARI           ║")

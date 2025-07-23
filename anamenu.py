@@ -59,4 +59,4 @@ def anamenu():
 
     elif secim>10:
         print("Hatalı Tuşlama Yaptınız, 1-10 arasında bir seçim yapınız...")         
-anamenu() #değer döndüren fonksiyon
+anamenu() 

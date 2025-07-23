@@ -1,22 +1,22 @@
 def kaynama_noktası():
-    print("/n *Suyun Kaynama Noktasını Bulma*")
+    print("\n *Suyun Kaynama Noktasını Bulma*")
     print("Su 100 derecede kaynar...")
     rakim=int(input("Bulunduğun rakımı gir: "))
     kaynama=100-(rakim/300)
     print("Tahmini Kaynama Noktası: ", kaynama)
 
 def hız_olcumu():
-    print("/n *Ses Hızı Deneyi*")
+    print("\n *Ses Hızı Deneyi*")
     mesafe=float(input("Şimşeği gördükten kaç saniye sonra gördün?: "))
     hiz=343
     uzaklik =hiz*mesafe
     print("Şimşek yaklaşık olarak", uzaklik,"metre uzaktaydı.")
 
 def karısımlar():
-    print("Renk Karışımı Deneyi")
+    print("\n Renk Karışımı Deneyi")
     print("Mevcut renkler: kırmızı, mavi, sarı")
-    renk1=input("1. rengi gir: ").lower
-    renk2=input("2. rengi gir: ").lower
+    renk1=input("1. rengi gir: ").lower()
+    renk2=input("2. rengi gir: ").lower()
     if(renk1=="kırmızı" and renk2=="mavi") or (renk1=="mavi" and renk2=="kırmızı"):
         karisim= "mor"
         kod= "\033[45m"
@@ -38,6 +38,7 @@ def karısımlar():
     else:
         print("Geçersiz renk karışımı!!!")
         return
+    print(kod + f"  {karisim.upper()}  " + "\033[0m")
 
 def kesifmenu():
     print("╔════════════════════════════╗")

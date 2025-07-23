@@ -1,12 +1,15 @@
 def gunluk_girisi():
+    print("\n * Yeni Günlük Girişi Sistemi*")
     notlar=input("Bugün neler öğrendin?: ")
     print("Günlük Kaydın Tamamlandı:", notlar)
 
 def gunluk_hedef():
+    print("\n *Günlük Hedef Belirleme Sistemi*")
     hedef=input("Bugünki Hedeflerin Neler?: ")
     print("Bugünki Hedeflerini Listeledim: ", hedef)
 
 def gorev_tamamlandı():
+    print("\n *Görev Tamamlandı Notu Sistemi*")
     gorev=input("Görevleriniz yapıldı mı?:")
     if gorev==("evet"):
         print("Görevleriniz Tamamlandı")

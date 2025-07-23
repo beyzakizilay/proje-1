@@ -1,15 +1,18 @@
 def nano_robot():
+    print("\n *Nano Robot Sistemi*")
     print("Nano Robotlar aktive ediliyor...")
     print("Mikroskobik sesviyede tamir işlemi başlatıldı!!!")
     hedef= input("Hangi yapıyı onarmak istersin? (örnek:hücre, devre, uzay giysisi): ")
     print(f"{hedef} üzerinde onarım işlemi başladı. Nanobotlar çalışıyor...")
 
 def parcacik_hizlandirici():
+    print("\n *Parçacık Hızlandırma Sistemi*")
     print("Parçacık hızlandırıcı devrede!!!")
     hiz=input("Parçacıklara uygulanacak hızı gir (örnek: 3.0 x ışık hızı): ")
     print(f"Parçacıklar {hiz} hızında çalıştırılıyor... Enerji seviyeleri artıyor!!!")
 
 def molekuler_tarama():
+    print("\n *Moleküler Tarama Sistemi*")
     print("Moleküler tarama başlatıldı...")
     madde=input("Hangi maddeyi taramak istersin? (örnek: kuantum jeli, yıldız tozu): ")
     print(f"{madde} analiz ediliyor... Moleküler yapı eşleştiriliyor... Tamamlandı!")
