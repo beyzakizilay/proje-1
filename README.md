@@ -1,13 +1,14 @@
 # vektorelpython99
-# proje1
-## ekran görüntüsü 
+# Konsol Uygulaması
+## Konsol Uygulaması Proje Tanıtımı
 
 
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 215321.png">
 <p>Bu ekran resmi anamenü giriş ekranıdır<p>
-<p>--------------------------------------<p>
-
+<p>-----------------------------------------<p>
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223450.png">
+<p>Bu ekran resmi anamenü giriş ekranıdır<p>
+
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223632.png">
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223712.png">
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223735.png">
