@@ -1,4 +1,3 @@
-# vektorelpython99
 # Konsol Uygulaması
 ## Konsol Uygulaması Proje Tanıtımı
 
