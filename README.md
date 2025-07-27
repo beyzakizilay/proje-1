@@ -1,10 +1,10 @@
 # Konsol Uygulaması
 ## Konsol Uygulaması Proje Tanıtımı
 <p>Bu sistemde, farklı bilimsel ve teknolojik alanlara özel uygulamaları çalıştırabilirsiniz. Aşağıdaki ana menüde yer alan seçeneklerden birini seçerek uygulamayı başlatın.<p>
-<p>Örneğin, Roket Fırlatma İstasyonu’nu çalıştırmak için 1 tuşuna basmanız yeterlidir. İlgili modül açıldığında sizden bazı bilgiler istenecektir. Gerekli verileri girdikten sonra sistem işlemi tamamlayacak ve sizi tekrar ana menüye yönlendirecektir.<p>
-<p>Her bir modül (YZ Laboratuvarı, Bilimsel Hesap Merkezi, Holografik Çizim Alanı vb.) kendine özel içerik ve işlemler sunar. Dilediğiniz kadar farklı modülleri deneyebilirsiniz.<p>
-<p>Uygulamayı sonlandırmak isterseniz, ana menüden 10 - Görev Sonlandır seçeneğini seçmeniz yeterlidir.<p>
-<p>Menü dışı bir giriş yaptığınızda sistem sizi uyaracaktır. Lütfen sadece 1 ile 10 arasındaki geçerli bir sayı giriniz.<p>
+Örneğin, Roket Fırlatma İstasyonu’nu çalıştırmak için 1 tuşuna basmanız yeterlidir. İlgili modül açıldığında sizden bazı bilgiler istenecektir. Gerekli verileri girdikten sonra sistem işlemi tamamlayacak ve sizi tekrar ana menüye yönlendirecektir.
+Her bir modül (YZ Laboratuvarı, Bilimsel Hesap Merkezi, Holografik Çizim Alanı vb.) kendine özel içerik ve işlemler sunar. Dilediğiniz kadar farklı modülleri deneyebilirsiniz.
+Uygulamayı sonlandırmak isterseniz, ana menüden 10 - Görev Sonlandır seçeneğini seçmeniz yeterlidir.
+Menü dışı bir giriş yaptığınızda sistem sizi uyaracaktır. Lütfen sadece 1 ile 10 arasındaki geçerli bir sayı giriniz.<p>
 
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 215321.png">
 <p>Bu ekran resmi anamenü giriş ekranıdır<p>
