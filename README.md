@@ -1,4 +1,5 @@
 # Konsol Uygulaması
+<img height="300" src="ekran_resimleri/logo.png">
 ## Konsol Uygulaması Proje Tanıtımı
 <p>Bu sistemde, farklı bilimsel ve teknolojik alanlara özel uygulamaları çalıştırabilirsiniz. Aşağıdaki ana menüde yer alan seçeneklerden birini seçerek uygulamayı başlatın.
 Örneğin, Roket Fırlatma İstasyonu’nu çalıştırmak için 1 tuşuna basmanız yeterlidir. İlgili modül açıldığında sizden bazı bilgiler istenecektir. Gerekli verileri girdikten sonra sistem işlemi tamamlayacak ve sizi tekrar ana menüye yönlendirecektir.
