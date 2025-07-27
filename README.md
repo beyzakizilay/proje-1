@@ -56,5 +56,5 @@ Menü dışı bir giriş yaptığınızda sistem sizi uyaracaktır. Lütfen sade
 <p>Galaksi Haritasında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
 <p>-----------------------------------------<p>
 
-
+## Çıkış
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224736.png">
