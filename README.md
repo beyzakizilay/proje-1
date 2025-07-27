@@ -6,14 +6,26 @@ Her bir modül (YZ Laboratuvarı, Bilimsel Hesap Merkezi, Holografik Çizim Alan
 Uygulamayı sonlandırmak isterseniz, ana menüden 10 - Görev Sonlandır seçeneğini seçmeniz yeterlidir.
 Menü dışı bir giriş yaptığınızda sistem sizi uyaracaktır. Lütfen sadece 1 ile 10 arasındaki geçerli bir sayı giriniz.<p>
 
+## Anamenü    
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 215321.png">
-<p>Bu ekran resmi anamenü giriş ekranıdır<p>
+<p>Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.<p>
 <p>-----------------------------------------<p>
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223450.png">
-<p>Bu ekran resmi anamenü giriş ekranıdır<p>
 
+## 1.Roket Fırlatma İstasyonu
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223450.png">
+<p>Roket Fırlatma İstasyonunda yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>-----------------------------------------<p>
+
+## Yapay Zeka Laboratuarı
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223632.png">
+<p>Yapay Zeka Laboratuarında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>-----------------------------------------<p>
+
+## Bilimsel Hesap Merkezi
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223712.png">
+<p>Bilimsel Hesap Merkezinde yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>-----------------------------------------<p>
+
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223735.png">
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223804.png">
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224604.png">
