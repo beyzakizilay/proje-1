@@ -2,14 +2,15 @@
 ## Beyza KIZILAY
 <img height="200" src="ekran_resimleri/logo.png">
 
-<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">Videoyu izlemek için tıklayınız...
-</a>
+
 ## Konsol Uygulaması Proje Tanıtımı
 <p>Bu sistemde, farklı bilimsel ve teknolojik alanlara özel uygulamaları çalıştırabilirsiniz. Aşağıdaki ana menüde yer alan seçeneklerden birini seçerek uygulamayı başlatın.
 Örneğin, Roket Fırlatma İstasyonu’nu çalıştırmak için 1 tuşuna basmanız yeterlidir. İlgili modül açıldığında sizden bazı bilgiler istenecektir. Gerekli verileri girdikten sonra sistem işlemi tamamlayacak ve sizi tekrar ana menüye yönlendirecektir.
 Her bir modül (YZ Laboratuvarı, Bilimsel Hesap Merkezi, Holografik Çizim Alanı vb.) kendine özel içerik ve işlemler sunar. Dilediğiniz kadar farklı modülleri deneyebilirsiniz.
 Uygulamayı sonlandırmak isterseniz, ana menüden 10 - Görev Sonlandır seçeneğini seçmeniz yeterlidir.
 Menü dışı bir giriş yaptığınızda sistem sizi uyaracaktır. Lütfen sadece 1 ile 10 arasındaki geçerli bir sayı giriniz.<p>
+<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">Videoyu izlemek için tıklayınız...
+</a>
 
 ## Anamenü    
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 215321.png">
