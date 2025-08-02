@@ -1,7 +1,9 @@
 # Konsol Uygulaması
 ## Beyza KIZILAY
-<img height="200" src="ekran_resimleri/logo.png">
 
+<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">linki eklenecek yazı
+<img height="200" src="ekran_resimleri/logo.png">
+</a>
 ## Konsol Uygulaması Proje Tanıtımı
 <p>Bu sistemde, farklı bilimsel ve teknolojik alanlara özel uygulamaları çalıştırabilirsiniz. Aşağıdaki ana menüde yer alan seçeneklerden birini seçerek uygulamayı başlatın.
 Örneğin, Roket Fırlatma İstasyonu’nu çalıştırmak için 1 tuşuna basmanız yeterlidir. İlgili modül açıldığında sizden bazı bilgiler istenecektir. Gerekli verileri girdikten sonra sistem işlemi tamamlayacak ve sizi tekrar ana menüye yönlendirecektir.
