@@ -1,8 +1,8 @@
 # Konsol Uygulaması
 ## Beyza KIZILAY
-
-<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">Videoyu izlemek için tıklayınız.
 <img height="200" src="ekran_resimleri/logo.png">
+
+<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">Videoyu izlemek için tıklayınız...
 </a>
 ## Konsol Uygulaması Proje Tanıtımı
 <p>Bu sistemde, farklı bilimsel ve teknolojik alanlara özel uygulamaları çalıştırabilirsiniz. Aşağıdaki ana menüde yer alan seçeneklerden birini seçerek uygulamayı başlatın.
